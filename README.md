@@ -30,15 +30,15 @@ The project is structured as follows:
 
 ## Data
 
-📦Data
- ┣ :file_folder: Location
- ┃ ┣ :green_book: bus_stops.csv
- ┃ ┣ :green_book: crimes.csv
- ┃ ┣ :green_book: cultural.csv
- ┃ ┣ :green_book: education.csv
- ┃ ┣ :green_book: health.csv
- ┃ ┣ :green_book: main_attractions.csv
- ┃ ┣ :green_book: recreation.csv
+📦Data <br>
+ ┣ :file_folder: Location <br>
+ ┃ ┣ :green_book: bus_stops.csv <br>
+ ┃ ┣ :green_book: crimes.csv <br>
+ ┃ ┣ :green_book: cultural.csv <br>
+ ┃ ┣ :green_book: education.csv <br>
+ ┃ ┣ :green_book: health.csv <br>
+ ┃ ┣ :green_book: main_attractions.csv <br>
+ ┃ ┣ :green_book: recreation.csv <br>
  ┃ ┣ :green_book: religious.csv
  ┃ ┣ :green_book: restaurants.csv
  ┃ ┗ :green_book: subway_stations.csv
