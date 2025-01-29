@@ -1,6 +1,8 @@
 # Master-thesis
 
-Repository for my master thesis project: <b><i>"How much to pay for a night? Determinants of Airbnb housing prices with Deep Learning"</i></b>
+Repository for my master thesis project: 
+
+<b><i>"How much to pay for a night? Determinants of Airbnb housing prices with Deep Learning"</i></b>
 
 ## Introduction
 
@@ -15,16 +17,26 @@ This project focuses on analyzing key pricing determinants for Airbnb listings a
 The project is structured as follows:
 
 📦Project
+
  ┣ :file_folder: Data
+
  ┣ :file_folder: Location
+
  ┣ :file_folder: Metadata
+
  ┣ :file_folder: saved_models
+
  ┣ :notebook: 1. Merge_listings.ipynb
+
  ┣ :notebook: 2. EDA.ipynb
+
  ┣ :notebook: 3. OLS.ipynb
+
  ┣ :notebook: 4. XGBoost.ipynb
+
  ┣ :notebook: 5. Neural Network.ipynb
- ┣ :notebook: 6. Ensemble.ipynb
+
+ ┗ :notebook: 6. Ensemble.ipynb
 
 
 ## Data
