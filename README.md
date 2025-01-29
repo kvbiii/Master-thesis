@@ -16,26 +16,17 @@ This project focuses on analyzing key pricing determinants for Airbnb listings a
 
 The project is structured as follows:
 
-📦Project
-
+📦Project <br>
  ┣ :file_folder: Data <br>
- ┣ :file_folder: Location
- ┣ :file_folder: Metadata
-
- ┣ :file_folder: saved_models
-
- ┣ :notebook: 1. Merge_listings.ipynb
-
- ┣ :notebook: 2. EDA.ipynb
-
- ┣ :notebook: 3. OLS.ipynb
-
- ┣ :notebook: 4. XGBoost.ipynb
-
- ┣ :notebook: 5. Neural Network.ipynb
-
- ┗ :notebook: 6. Ensemble.ipynb
-```
+ ┣ :file_folder: Location <br>
+ ┣ :file_folder: Metadata <br>
+ ┣ :file_folder: saved_models <br>
+ ┣ :notebook: 1. Merge_listings.ipynb <br>
+ ┣ :notebook: 2. EDA.ipynb <br>
+ ┣ :notebook: 3. OLS.ipynb <br>
+ ┣ :notebook: 4. XGBoost.ipynb <br>
+ ┣ :notebook: 5. Neural Network.ipynb <br>
+ ┗ :notebook: 6. Ensemble.ipynb 
 
 ## Data
 
