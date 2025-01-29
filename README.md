@@ -39,13 +39,13 @@ The project is structured as follows:
  ┃ ┣ :green_book: health.csv <br>
  ┃ ┣ :green_book: main_attractions.csv <br>
  ┃ ┣ :green_book: recreation.csv <br>
- ┃ ┣ :green_book: religious.csv
- ┃ ┣ :green_book: restaurants.csv
- ┃ ┗ :green_book: subway_stations.csv
- ┣ :green_book: listings.csv
- ┣ :green_book: listings_cleaned.csv
- ┣ :green_book: listings_eda.csv
- ┣ :green_book: location_features.csv
+ ┃ ┣ :green_book: religious.csv <br>
+ ┃ ┣ :green_book: restaurants.csv <br>
+ ┃ ┗ :green_book: subway_stations.csv <br>
+ ┣ :green_book: listings.csv <br>
+ ┣ :green_book: listings_cleaned.csv <br>
+ ┣ :green_book: listings_eda.csv <br>
+ ┣ :green_book: location_features.csv <br>
  ┗ :green_book: airbnb_data.csv
 
 The data folder contains:
@@ -58,16 +58,16 @@ The data folder contains:
 
 ## Location
 
-📦Location
- ┣ :file_folder: Data
- ┃ ┣ :green_book: bus_stops.csv
- ┃ ┣ :green_book: neighbourhoods.geojson
- ┃ ┣ :green_book: NYPD_crimes.csv
- ┃ ┣ :green_book: Points_of_Interest.csv
- ┃ ┣ :green_book: Point_Of_Interest_dictionary.pdf
- ┃ ┣ :green_book: restaurants.csv
- ┃ ┗ :green_book: subway_stations.csv
- ┣ :notebook: 1. Location_Processing.ipynb
+📦Location <br>
+ ┣ :file_folder: Data <br>
+ ┃ ┣ :green_book: bus_stops.csv <br>
+ ┃ ┣ :green_book: neighbourhoods.geojson <br>
+ ┃ ┣ :green_book: NYPD_crimes.csv <br>
+ ┃ ┣ :green_book: Points_of_Interest.csv <br>
+ ┃ ┣ :green_book: Point_Of_Interest_dictionary.pdf <br>
+ ┃ ┣ :green_book: restaurants.csv <br>
+ ┃ ┗ :green_book: subway_stations.csv <br>
+ ┣ :notebook: 1. Location_Processing.ipynb <br>
  ┗ :notebook: 2. Location_EDA.ipynb
 
 The Location folder contains:
@@ -77,20 +77,20 @@ The Location folder contains:
 
 ## Metadata
 
-📦Metadata
- ┣ :notebook: 1. Metadata_Processing.ipynb
- ┗ :notebook: 2. Metadata_EDA.ipynb
+📦Metadata <br>
+ ┣ :notebook: 1. Metadata_Processing.ipynb <br>
+ ┗ :notebook: 2. Metadata_EDA.ipynb <br>
 
-The Metadata folder contains:
-- :notebook: 1. Metadata_Processing.ipynb: Jupyter notebook for processing metadata.
+The Metadata folder contains: <br>
+- :notebook: 1. Metadata_Processing.ipynb: Jupyter notebook for processing metadata. <br>
 - :notebook: 2. Metadata_EDA.ipynb: Jupyter notebook for exploratory data analysis of metadata and feature engineering.
 
 ## saved_models
 
-📦saved_models
- ┣ :page_with_curl: model_LR.pkl
- ┣ :page_with_curl: model_NN.pkl
- ┗ :page_with_curl: model_XGB.pkl
+📦saved_models <br>
+ ┣ :page_with_curl: model_LR.pkl <br>
+ ┣ :page_with_curl: model_NN.pkl <br>
+ ┗ :page_with_curl: model_XGB.pkl <br>
 
 The saved_models folder contains:
 - :page_with_curl: model_LR.pkl: saved Linear Regression model.
@@ -99,12 +99,12 @@ The saved_models folder contains:
 
 ## Notebooks
 
-📦Notebooks
- ┣ :notebook: 1. Merge_listings.ipynb
- ┣ :notebook: 2. EDA.ipynb
- ┣ :notebook: 3. OLS.ipynb
- ┣ :notebook: 4. XGBoost.ipynb
- ┣ :notebook: 5. Neural Network.ipynb
+📦Notebooks <br>
+ ┣ :notebook: 1. Merge_listings.ipynb <br>
+ ┣ :notebook: 2. EDA.ipynb <br>
+ ┣ :notebook: 3. OLS.ipynb <br>
+ ┣ :notebook: 4. XGBoost.ipynb <br>
+ ┣ :notebook: 5. Neural Network.ipynb <br>
  ┗ :notebook: 6. Ensemble.ipynb
 
 The Notebooks folder contains:
