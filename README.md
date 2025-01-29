@@ -18,10 +18,8 @@ The project is structured as follows:
 
 📦Project
 
- ┣ :file_folder: Data
-<p>
+ ┣ :file_folder: Data <br>
  ┣ :file_folder: Location
-<p>
  ┣ :file_folder: Metadata
 
  ┣ :file_folder: saved_models
