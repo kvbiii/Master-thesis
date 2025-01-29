@@ -19,9 +19,9 @@ The project is structured as follows:
 📦Project
 
  ┣ :file_folder: Data
-
+<p>
  ┣ :file_folder: Location
-
+<p>
  ┣ :file_folder: Metadata
 
  ┣ :file_folder: saved_models
@@ -37,7 +37,7 @@ The project is structured as follows:
  ┣ :notebook: 5. Neural Network.ipynb
 
  ┗ :notebook: 6. Ensemble.ipynb
-
+```
 
 ## Data
 
