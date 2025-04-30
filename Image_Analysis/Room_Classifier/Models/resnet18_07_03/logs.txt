@@ -1,0 +1,253 @@
+Training started and performing on cuda:0 ...
+Epoch 1/100 | Phase: train | Train_loss: 0.4222 | Train_accuracy: 0.8612 | Train_precision: 0.8327 | Train_recall: 0.8148 | Train_f1: 0.8229
+Epoch 1/100 | Phase: valid | Valid_loss: 0.1337 | Valid_accuracy: 0.9614 | Valid_precision: 0.9434 | Valid_recall: 0.9491 | Valid_f1: 0.9459
+Epoch time: 759.7727858[s]
+Best validation f1: 0.9459 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 2/100 | Phase: train | Train_loss: 0.3230 | Train_accuracy: 0.8955 | Train_precision: 0.8763 | Train_recall: 0.8595 | Train_f1: 0.8672
+Epoch 2/100 | Phase: valid | Valid_loss: 0.1294 | Valid_accuracy: 0.9632 | Valid_precision: 0.9480 | Valid_recall: 0.9516 | Valid_f1: 0.9496
+Epoch time: 720.4650469000001[s]
+Best validation f1: 0.9496 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 3/100 | Phase: train | Train_loss: 0.2893 | Train_accuracy: 0.9063 | Train_precision: 0.8881 | Train_recall: 0.8740 | Train_f1: 0.8805
+Epoch 3/100 | Phase: valid | Valid_loss: 0.1115 | Valid_accuracy: 0.9680 | Valid_precision: 0.9562 | Valid_recall: 0.9565 | Valid_f1: 0.9562
+Epoch time: 719.2801979000001[s]
+Best validation f1: 0.9562 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 4/100 | Phase: train | Train_loss: 0.2679 | Train_accuracy: 0.9137 | Train_precision: 0.8976 | Train_recall: 0.8842 | Train_f1: 0.8905
+Epoch 4/100 | Phase: valid | Valid_loss: 0.1160 | Valid_accuracy: 0.9689 | Valid_precision: 0.9584 | Valid_recall: 0.9552 | Valid_f1: 0.9567
+Epoch time: 719.5660571000003[s]
+Best validation f1: 0.9567 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 5/100 | Phase: train | Train_loss: 0.2507 | Train_accuracy: 0.9195 | Train_precision: 0.9054 | Train_recall: 0.8914 | Train_f1: 0.8980
+Epoch 5/100 | Phase: valid | Valid_loss: 0.1097 | Valid_accuracy: 0.9704 | Valid_precision: 0.9632 | Valid_recall: 0.9614 | Valid_f1: 0.9621
+Epoch time: 718.9803058000002[s]
+Best validation f1: 0.9621 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 6/100 | Phase: train | Train_loss: 0.2390 | Train_accuracy: 0.9227 | Train_precision: 0.9081 | Train_recall: 0.8949 | Train_f1: 0.9011
+Epoch 6/100 | Phase: valid | Valid_loss: 0.1005 | Valid_accuracy: 0.9709 | Valid_precision: 0.9620 | Valid_recall: 0.9607 | Valid_f1: 0.9613
+Epoch time: 721.4906806000004[s]
+Epoch 7/100 | Phase: train | Train_loss: 0.2317 | Train_accuracy: 0.9247 | Train_precision: 0.9110 | Train_recall: 0.8986 | Train_f1: 0.9044
+Epoch 7/100 | Phase: valid | Valid_loss: 0.0995 | Valid_accuracy: 0.9728 | Valid_precision: 0.9620 | Valid_recall: 0.9633 | Valid_f1: 0.9625
+Epoch time: 720.3931462999999[s]
+Best validation f1: 0.9625 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 8/100 | Phase: train | Train_loss: 0.2179 | Train_accuracy: 0.9286 | Train_precision: 0.9146 | Train_recall: 0.9026 | Train_f1: 0.9083
+Epoch 8/100 | Phase: valid | Valid_loss: 0.0975 | Valid_accuracy: 0.9735 | Valid_precision: 0.9654 | Valid_recall: 0.9634 | Valid_f1: 0.9643
+Epoch time: 719.3210164000002[s]
+Best validation f1: 0.9643 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 9/100 | Phase: train | Train_loss: 0.2143 | Train_accuracy: 0.9298 | Train_precision: 0.9185 | Train_recall: 0.9058 | Train_f1: 0.9118
+Epoch 9/100 | Phase: valid | Valid_loss: 0.0969 | Valid_accuracy: 0.9731 | Valid_precision: 0.9608 | Valid_recall: 0.9665 | Valid_f1: 0.9631
+Epoch time: 718.6723959999999[s]
+Epoch 10/100 | Phase: train | Train_loss: 0.2092 | Train_accuracy: 0.9324 | Train_precision: 0.9204 | Train_recall: 0.9081 | Train_f1: 0.9139
+Epoch 10/100 | Phase: valid | Valid_loss: 0.0967 | Valid_accuracy: 0.9714 | Valid_precision: 0.9573 | Valid_recall: 0.9641 | Valid_f1: 0.9604
+Epoch time: 731.3699716000001[s]
+Epoch 11/100 | Phase: train | Train_loss: 0.2012 | Train_accuracy: 0.9341 | Train_precision: 0.9233 | Train_recall: 0.9118 | Train_f1: 0.9173
+Epoch 11/100 | Phase: valid | Valid_loss: 0.0944 | Valid_accuracy: 0.9749 | Valid_precision: 0.9675 | Valid_recall: 0.9644 | Valid_f1: 0.9659
+Epoch time: 727.0866175000001[s]
+Best validation f1: 0.9659 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 12/100 | Phase: train | Train_loss: 0.1980 | Train_accuracy: 0.9352 | Train_precision: 0.9237 | Train_recall: 0.9128 | Train_f1: 0.9180
+Epoch 12/100 | Phase: valid | Valid_loss: 0.0956 | Valid_accuracy: 0.9740 | Valid_precision: 0.9621 | Valid_recall: 0.9685 | Valid_f1: 0.9651
+Epoch time: 722.9382769000003[s]
+Epoch 13/100 | Phase: train | Train_loss: 0.1940 | Train_accuracy: 0.9367 | Train_precision: 0.9262 | Train_recall: 0.9149 | Train_f1: 0.9202
+Epoch 13/100 | Phase: valid | Valid_loss: 0.0889 | Valid_accuracy: 0.9754 | Valid_precision: 0.9702 | Valid_recall: 0.9647 | Valid_f1: 0.9674
+Epoch time: 724.7518185999998[s]
+Best validation f1: 0.9674 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 14/100 | Phase: train | Train_loss: 0.1890 | Train_accuracy: 0.9377 | Train_precision: 0.9273 | Train_recall: 0.9159 | Train_f1: 0.9213
+Epoch 14/100 | Phase: valid | Valid_loss: 0.0900 | Valid_accuracy: 0.9749 | Valid_precision: 0.9654 | Valid_recall: 0.9670 | Valid_f1: 0.9662
+Epoch time: 720.2525848999994[s]
+Epoch 15/100 | Phase: train | Train_loss: 0.1849 | Train_accuracy: 0.9393 | Train_precision: 0.9297 | Train_recall: 0.9187 | Train_f1: 0.9240
+Epoch 15/100 | Phase: valid | Valid_loss: 0.0905 | Valid_accuracy: 0.9743 | Valid_precision: 0.9635 | Valid_recall: 0.9673 | Valid_f1: 0.9653
+Epoch time: 724.219277799999[s]
+Epoch 16/100 | Phase: train | Train_loss: 0.1807 | Train_accuracy: 0.9406 | Train_precision: 0.9305 | Train_recall: 0.9196 | Train_f1: 0.9248
+Epoch 16/100 | Phase: valid | Valid_loss: 0.0983 | Valid_accuracy: 0.9719 | Valid_precision: 0.9603 | Valid_recall: 0.9628 | Valid_f1: 0.9614
+Epoch time: 723.7152585999993[s]
+Epoch 17/100 | Phase: train | Train_loss: 0.1755 | Train_accuracy: 0.9432 | Train_precision: 0.9338 | Train_recall: 0.9230 | Train_f1: 0.9282
+Epoch 17/100 | Phase: valid | Valid_loss: 0.0932 | Valid_accuracy: 0.9748 | Valid_precision: 0.9653 | Valid_recall: 0.9660 | Valid_f1: 0.9656
+Epoch time: 722.4036436000006[s]
+Epoch 18/100 | Phase: train | Train_loss: 0.1766 | Train_accuracy: 0.9419 | Train_precision: 0.9320 | Train_recall: 0.9211 | Train_f1: 0.9263
+Epoch 18/100 | Phase: valid | Valid_loss: 0.1002 | Valid_accuracy: 0.9733 | Valid_precision: 0.9596 | Valid_recall: 0.9673 | Valid_f1: 0.9630
+Epoch time: 722.7173332999992[s]
+Epoch 19/100 | Phase: train | Train_loss: 0.1718 | Train_accuracy: 0.9439 | Train_precision: 0.9344 | Train_recall: 0.9239 | Train_f1: 0.9289
+Epoch 19/100 | Phase: valid | Valid_loss: 0.0965 | Valid_accuracy: 0.9736 | Valid_precision: 0.9603 | Valid_recall: 0.9671 | Valid_f1: 0.9634
+Epoch time: 721.2075540999995[s]
+Epoch 20/100 | Phase: train | Train_loss: 0.1645 | Train_accuracy: 0.9451 | Train_precision: 0.9371 | Train_recall: 0.9265 | Train_f1: 0.9315
+Epoch 20/100 | Phase: valid | Valid_loss: 0.0946 | Valid_accuracy: 0.9736 | Valid_precision: 0.9637 | Valid_recall: 0.9648 | Valid_f1: 0.9642
+Epoch time: 723.6373648999997[s]
+Learning rate updated: 0.0001 -> 5e-05
+Epoch 21/100 | Phase: train | Train_loss: 0.1404 | Train_accuracy: 0.9537 | Train_precision: 0.9471 | Train_recall: 0.9379 | Train_f1: 0.9423
+Epoch 21/100 | Phase: valid | Valid_loss: 0.0876 | Valid_accuracy: 0.9772 | Valid_precision: 0.9704 | Valid_recall: 0.9692 | Valid_f1: 0.9698
+Epoch time: 723.2475935999992[s]
+Best validation f1: 0.9698 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 22/100 | Phase: train | Train_loss: 0.1360 | Train_accuracy: 0.9551 | Train_precision: 0.9493 | Train_recall: 0.9396 | Train_f1: 0.9443
+Epoch 22/100 | Phase: valid | Valid_loss: 0.0882 | Valid_accuracy: 0.9780 | Valid_precision: 0.9698 | Valid_recall: 0.9704 | Valid_f1: 0.9701
+Epoch time: 721.0755410000002[s]
+Best validation f1: 0.9701 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 23/100 | Phase: train | Train_loss: 0.1280 | Train_accuracy: 0.9575 | Train_precision: 0.9515 | Train_recall: 0.9425 | Train_f1: 0.9468
+Epoch 23/100 | Phase: valid | Valid_loss: 0.0896 | Valid_accuracy: 0.9760 | Valid_precision: 0.9664 | Valid_recall: 0.9669 | Valid_f1: 0.9666
+Epoch time: 721.7068166000008[s]
+Epoch 24/100 | Phase: train | Train_loss: 0.1282 | Train_accuracy: 0.9578 | Train_precision: 0.9518 | Train_recall: 0.9427 | Train_f1: 0.9471
+Epoch 24/100 | Phase: valid | Valid_loss: 0.0910 | Valid_accuracy: 0.9769 | Valid_precision: 0.9698 | Valid_recall: 0.9681 | Valid_f1: 0.9689
+Epoch time: 720.583572399999[s]
+Epoch 25/100 | Phase: train | Train_loss: 0.1243 | Train_accuracy: 0.9589 | Train_precision: 0.9525 | Train_recall: 0.9439 | Train_f1: 0.9480
+Epoch 25/100 | Phase: valid | Valid_loss: 0.0909 | Valid_accuracy: 0.9772 | Valid_precision: 0.9676 | Valid_recall: 0.9710 | Valid_f1: 0.9692
+Epoch time: 721.1001638999987[s]
+Epoch 26/100 | Phase: train | Train_loss: 0.1226 | Train_accuracy: 0.9591 | Train_precision: 0.9526 | Train_recall: 0.9444 | Train_f1: 0.9484
+Epoch 26/100 | Phase: valid | Valid_loss: 0.0966 | Valid_accuracy: 0.9773 | Valid_precision: 0.9685 | Valid_recall: 0.9702 | Valid_f1: 0.9694
+Epoch time: 721.5560716[s]
+Epoch 27/100 | Phase: train | Train_loss: 0.1205 | Train_accuracy: 0.9598 | Train_precision: 0.9544 | Train_recall: 0.9459 | Train_f1: 0.9500
+Epoch 27/100 | Phase: valid | Valid_loss: 0.0875 | Valid_accuracy: 0.9774 | Valid_precision: 0.9707 | Valid_recall: 0.9684 | Valid_f1: 0.9695
+Epoch time: 720.8564344000006[s]
+Epoch 28/100 | Phase: train | Train_loss: 0.1171 | Train_accuracy: 0.9605 | Train_precision: 0.9548 | Train_recall: 0.9462 | Train_f1: 0.9504
+Epoch 28/100 | Phase: valid | Valid_loss: 0.0942 | Valid_accuracy: 0.9762 | Valid_precision: 0.9657 | Valid_recall: 0.9699 | Valid_f1: 0.9677
+Epoch time: 721.135763000002[s]
+Epoch 29/100 | Phase: train | Train_loss: 0.1182 | Train_accuracy: 0.9607 | Train_precision: 0.9549 | Train_recall: 0.9463 | Train_f1: 0.9505
+Epoch 29/100 | Phase: valid | Valid_loss: 0.0893 | Valid_accuracy: 0.9782 | Valid_precision: 0.9692 | Valid_recall: 0.9714 | Valid_f1: 0.9703
+Epoch time: 721.8808398000001[s]
+Best validation f1: 0.9703 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 30/100 | Phase: train | Train_loss: 0.1165 | Train_accuracy: 0.9615 | Train_precision: 0.9559 | Train_recall: 0.9477 | Train_f1: 0.9516
+Epoch 30/100 | Phase: valid | Valid_loss: 0.0887 | Valid_accuracy: 0.9782 | Valid_precision: 0.9686 | Valid_recall: 0.9712 | Valid_f1: 0.9699
+Epoch time: 721.3201277000007[s]
+Epoch 31/100 | Phase: train | Train_loss: 0.1173 | Train_accuracy: 0.9608 | Train_precision: 0.9556 | Train_recall: 0.9469 | Train_f1: 0.9511
+Epoch 31/100 | Phase: valid | Valid_loss: 0.0952 | Valid_accuracy: 0.9773 | Valid_precision: 0.9672 | Valid_recall: 0.9705 | Valid_f1: 0.9688
+Epoch time: 720.1142486000026[s]
+Epoch 32/100 | Phase: train | Train_loss: 0.1158 | Train_accuracy: 0.9616 | Train_precision: 0.9564 | Train_recall: 0.9483 | Train_f1: 0.9522
+Epoch 32/100 | Phase: valid | Valid_loss: 0.0988 | Valid_accuracy: 0.9779 | Valid_precision: 0.9691 | Valid_recall: 0.9709 | Valid_f1: 0.9700
+Epoch time: 720.990655900001[s]
+Epoch 33/100 | Phase: train | Train_loss: 0.1114 | Train_accuracy: 0.9631 | Train_precision: 0.9587 | Train_recall: 0.9504 | Train_f1: 0.9544
+Epoch 33/100 | Phase: valid | Valid_loss: 0.0970 | Valid_accuracy: 0.9769 | Valid_precision: 0.9675 | Valid_recall: 0.9694 | Valid_f1: 0.9684
+Epoch time: 720.814309100002[s]
+Epoch 34/100 | Phase: train | Train_loss: 0.1125 | Train_accuracy: 0.9620 | Train_precision: 0.9563 | Train_recall: 0.9491 | Train_f1: 0.9526
+Epoch 34/100 | Phase: valid | Valid_loss: 0.0969 | Valid_accuracy: 0.9778 | Valid_precision: 0.9672 | Valid_recall: 0.9718 | Valid_f1: 0.9693
+Epoch time: 719.9734143999995[s]
+Learning rate updated: 5e-05 -> 2.5e-05
+Epoch 35/100 | Phase: train | Train_loss: 0.0994 | Train_accuracy: 0.9666 | Train_precision: 0.9622 | Train_recall: 0.9545 | Train_f1: 0.9582
+Epoch 35/100 | Phase: valid | Valid_loss: 0.0900 | Valid_accuracy: 0.9786 | Valid_precision: 0.9697 | Valid_recall: 0.9714 | Valid_f1: 0.9705
+Epoch time: 720.4092566999971[s]
+Best validation f1: 0.9705 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 36/100 | Phase: train | Train_loss: 0.0967 | Train_accuracy: 0.9680 | Train_precision: 0.9641 | Train_recall: 0.9576 | Train_f1: 0.9607
+Epoch 36/100 | Phase: valid | Valid_loss: 0.0913 | Valid_accuracy: 0.9787 | Valid_precision: 0.9702 | Valid_recall: 0.9706 | Valid_f1: 0.9704
+Epoch time: 722.677083300001[s]
+Epoch 37/100 | Phase: train | Train_loss: 0.0960 | Train_accuracy: 0.9680 | Train_precision: 0.9642 | Train_recall: 0.9563 | Train_f1: 0.9601
+Epoch 37/100 | Phase: valid | Valid_loss: 0.0940 | Valid_accuracy: 0.9777 | Valid_precision: 0.9685 | Valid_recall: 0.9716 | Valid_f1: 0.9700
+Epoch time: 721.0951547000004[s]
+Epoch 38/100 | Phase: train | Train_loss: 0.0942 | Train_accuracy: 0.9679 | Train_precision: 0.9635 | Train_recall: 0.9560 | Train_f1: 0.9596
+Epoch 38/100 | Phase: valid | Valid_loss: 0.0953 | Valid_accuracy: 0.9779 | Valid_precision: 0.9693 | Valid_recall: 0.9708 | Valid_f1: 0.9700
+Epoch time: 721.2613889000022[s]
+Epoch 39/100 | Phase: train | Train_loss: 0.0946 | Train_accuracy: 0.9684 | Train_precision: 0.9642 | Train_recall: 0.9568 | Train_f1: 0.9604
+Epoch 39/100 | Phase: valid | Valid_loss: 0.0939 | Valid_accuracy: 0.9780 | Valid_precision: 0.9696 | Valid_recall: 0.9704 | Valid_f1: 0.9700
+Epoch time: 721.709447199999[s]
+Epoch 40/100 | Phase: train | Train_loss: 0.0931 | Train_accuracy: 0.9684 | Train_precision: 0.9642 | Train_recall: 0.9575 | Train_f1: 0.9608
+Epoch 40/100 | Phase: valid | Valid_loss: 0.0954 | Valid_accuracy: 0.9783 | Valid_precision: 0.9718 | Valid_recall: 0.9695 | Valid_f1: 0.9706
+Epoch time: 722.0016797999997[s]
+Best validation f1: 0.9706 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 41/100 | Phase: train | Train_loss: 0.0913 | Train_accuracy: 0.9702 | Train_precision: 0.9671 | Train_recall: 0.9598 | Train_f1: 0.9633
+Epoch 41/100 | Phase: valid | Valid_loss: 0.0948 | Valid_accuracy: 0.9784 | Valid_precision: 0.9683 | Valid_recall: 0.9716 | Valid_f1: 0.9699
+Epoch time: 721.2758476999988[s]
+Learning rate updated: 2.5e-05 -> 1.25e-05
+Epoch 42/100 | Phase: train | Train_loss: 0.0879 | Train_accuracy: 0.9708 | Train_precision: 0.9670 | Train_recall: 0.9597 | Train_f1: 0.9632
+Epoch 42/100 | Phase: valid | Valid_loss: 0.0946 | Valid_accuracy: 0.9785 | Valid_precision: 0.9710 | Valid_recall: 0.9706 | Valid_f1: 0.9708
+Epoch time: 720.6277255999994[s]
+Best validation f1: 0.9708 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 43/100 | Phase: train | Train_loss: 0.0822 | Train_accuracy: 0.9724 | Train_precision: 0.9685 | Train_recall: 0.9628 | Train_f1: 0.9656
+Epoch 43/100 | Phase: valid | Valid_loss: 0.0931 | Valid_accuracy: 0.9789 | Valid_precision: 0.9711 | Valid_recall: 0.9717 | Valid_f1: 0.9714
+Epoch time: 720.4714965999992[s]
+Best validation f1: 0.9714 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 44/100 | Phase: train | Train_loss: 0.0835 | Train_accuracy: 0.9723 | Train_precision: 0.9696 | Train_recall: 0.9627 | Train_f1: 0.9661
+Epoch 44/100 | Phase: valid | Valid_loss: 0.0930 | Valid_accuracy: 0.9783 | Valid_precision: 0.9696 | Valid_recall: 0.9709 | Valid_f1: 0.9702
+Epoch time: 720.7740440000016[s]
+Epoch 45/100 | Phase: train | Train_loss: 0.0814 | Train_accuracy: 0.9728 | Train_precision: 0.9697 | Train_recall: 0.9633 | Train_f1: 0.9665
+Epoch 45/100 | Phase: valid | Valid_loss: 0.0949 | Valid_accuracy: 0.9788 | Valid_precision: 0.9704 | Valid_recall: 0.9718 | Valid_f1: 0.9710
+Epoch time: 721.3921883000003[s]
+Epoch 46/100 | Phase: train | Train_loss: 0.0822 | Train_accuracy: 0.9726 | Train_precision: 0.9692 | Train_recall: 0.9627 | Train_f1: 0.9659
+Epoch 46/100 | Phase: valid | Valid_loss: 0.0941 | Valid_accuracy: 0.9783 | Valid_precision: 0.9690 | Valid_recall: 0.9717 | Valid_f1: 0.9703
+Epoch time: 721.7825416999985[s]
+Epoch 47/100 | Phase: train | Train_loss: 0.0798 | Train_accuracy: 0.9734 | Train_precision: 0.9701 | Train_recall: 0.9633 | Train_f1: 0.9666
+Epoch 47/100 | Phase: valid | Valid_loss: 0.0959 | Valid_accuracy: 0.9791 | Valid_precision: 0.9707 | Valid_recall: 0.9722 | Valid_f1: 0.9714
+Epoch time: 720.6738918000046[s]
+Best validation f1: 0.9714 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 48/100 | Phase: train | Train_loss: 0.0810 | Train_accuracy: 0.9726 | Train_precision: 0.9692 | Train_recall: 0.9626 | Train_f1: 0.9658
+Epoch 48/100 | Phase: valid | Valid_loss: 0.0945 | Valid_accuracy: 0.9788 | Valid_precision: 0.9693 | Valid_recall: 0.9721 | Valid_f1: 0.9707
+Epoch time: 720.217419499997[s]
+Learning rate updated: 1.25e-05 -> 6.25e-06
+Epoch 49/100 | Phase: train | Train_loss: 0.0808 | Train_accuracy: 0.9729 | Train_precision: 0.9697 | Train_recall: 0.9629 | Train_f1: 0.9662
+Epoch 49/100 | Phase: valid | Valid_loss: 0.0909 | Valid_accuracy: 0.9796 | Valid_precision: 0.9719 | Valid_recall: 0.9719 | Valid_f1: 0.9719
+Epoch time: 725.1485590999946[s]
+Best validation f1: 0.9719 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 50/100 | Phase: train | Train_loss: 0.0783 | Train_accuracy: 0.9740 | Train_precision: 0.9713 | Train_recall: 0.9642 | Train_f1: 0.9676
+Epoch 50/100 | Phase: valid | Valid_loss: 0.0933 | Valid_accuracy: 0.9787 | Valid_precision: 0.9705 | Valid_recall: 0.9712 | Valid_f1: 0.9708
+Epoch time: 746.0459198000026[s]
+Epoch 51/100 | Phase: train | Train_loss: 0.0747 | Train_accuracy: 0.9754 | Train_precision: 0.9726 | Train_recall: 0.9667 | Train_f1: 0.9696
+Epoch 51/100 | Phase: valid | Valid_loss: 0.0931 | Valid_accuracy: 0.9789 | Valid_precision: 0.9693 | Valid_recall: 0.9720 | Valid_f1: 0.9706
+Epoch time: 741.5217997[s]
+Epoch 52/100 | Phase: train | Train_loss: 0.0768 | Train_accuracy: 0.9744 | Train_precision: 0.9708 | Train_recall: 0.9653 | Train_f1: 0.9680
+Epoch 52/100 | Phase: valid | Valid_loss: 0.0941 | Valid_accuracy: 0.9785 | Valid_precision: 0.9692 | Valid_recall: 0.9718 | Valid_f1: 0.9705
+Epoch time: 986.9021386000022[s]
+Epoch 53/100 | Phase: train | Train_loss: 0.0767 | Train_accuracy: 0.9740 | Train_precision: 0.9715 | Train_recall: 0.9649 | Train_f1: 0.9681
+Epoch 53/100 | Phase: valid | Valid_loss: 0.0960 | Valid_accuracy: 0.9789 | Valid_precision: 0.9693 | Valid_recall: 0.9725 | Valid_f1: 0.9708
+Epoch time: 970.4843669000038[s]
+Epoch 54/100 | Phase: train | Train_loss: 0.0752 | Train_accuracy: 0.9753 | Train_precision: 0.9722 | Train_recall: 0.9658 | Train_f1: 0.9689
+Epoch 54/100 | Phase: valid | Valid_loss: 0.0949 | Valid_accuracy: 0.9794 | Valid_precision: 0.9715 | Valid_recall: 0.9719 | Valid_f1: 0.9717
+Epoch time: 1107.622990799995[s]
+Epoch 55/100 | Phase: train | Train_loss: 0.0759 | Train_accuracy: 0.9746 | Train_precision: 0.9714 | Train_recall: 0.9654 | Train_f1: 0.9684
+Epoch 55/100 | Phase: valid | Valid_loss: 0.0968 | Valid_accuracy: 0.9795 | Valid_precision: 0.9715 | Valid_recall: 0.9728 | Valid_f1: 0.9721
+Epoch time: 732.0721162000045[s]
+Learning rate updated: 6.25e-06 -> 3.125e-06
+Best validation f1: 0.9721 | Model saved to: ./Models/resnet18_07_03/best.pt
+Epoch 56/100 | Phase: train | Train_loss: 0.0736 | Train_accuracy: 0.9751 | Train_precision: 0.9721 | Train_recall: 0.9657 | Train_f1: 0.9688
+Epoch 56/100 | Phase: valid | Valid_loss: 0.0954 | Valid_accuracy: 0.9785 | Valid_precision: 0.9693 | Valid_recall: 0.9718 | Valid_f1: 0.9705
+Epoch time: 724.8108326000001[s]
+Epoch 57/100 | Phase: train | Train_loss: 0.0743 | Train_accuracy: 0.9751 | Train_precision: 0.9721 | Train_recall: 0.9657 | Train_f1: 0.9688
+Epoch 57/100 | Phase: valid | Valid_loss: 0.0974 | Valid_accuracy: 0.9788 | Valid_precision: 0.9690 | Valid_recall: 0.9724 | Valid_f1: 0.9707
+Epoch time: 723.8655800999986[s]
+Epoch 58/100 | Phase: train | Train_loss: 0.0735 | Train_accuracy: 0.9754 | Train_precision: 0.9724 | Train_recall: 0.9661 | Train_f1: 0.9692
+Epoch 58/100 | Phase: valid | Valid_loss: 0.0960 | Valid_accuracy: 0.9791 | Valid_precision: 0.9710 | Valid_recall: 0.9717 | Valid_f1: 0.9713
+Epoch time: 724.8346302000064[s]
+Epoch 59/100 | Phase: train | Train_loss: 0.0738 | Train_accuracy: 0.9754 | Train_precision: 0.9726 | Train_recall: 0.9664 | Train_f1: 0.9694
+Epoch 59/100 | Phase: valid | Valid_loss: 0.0948 | Valid_accuracy: 0.9791 | Valid_precision: 0.9703 | Valid_recall: 0.9716 | Valid_f1: 0.9709
+Epoch time: 725.8048661999928[s]
+Epoch 60/100 | Phase: train | Train_loss: 0.0757 | Train_accuracy: 0.9746 | Train_precision: 0.9716 | Train_recall: 0.9652 | Train_f1: 0.9683
+Epoch 60/100 | Phase: valid | Valid_loss: 0.0926 | Valid_accuracy: 0.9788 | Valid_precision: 0.9700 | Valid_recall: 0.9715 | Valid_f1: 0.9707
+Epoch time: 724.3575337000002[s]
+Epoch 61/100 | Phase: train | Train_loss: 0.0708 | Train_accuracy: 0.9764 | Train_precision: 0.9733 | Train_recall: 0.9678 | Train_f1: 0.9705
+Epoch 61/100 | Phase: valid | Valid_loss: 0.0930 | Valid_accuracy: 0.9789 | Valid_precision: 0.9698 | Valid_recall: 0.9719 | Valid_f1: 0.9708
+Epoch time: 724.0451304000017[s]
+Epoch 62/100 | Phase: train | Train_loss: 0.0742 | Train_accuracy: 0.9752 | Train_precision: 0.9725 | Train_recall: 0.9662 | Train_f1: 0.9693
+Epoch 62/100 | Phase: valid | Valid_loss: 0.0956 | Valid_accuracy: 0.9793 | Valid_precision: 0.9693 | Valid_recall: 0.9729 | Valid_f1: 0.9710
+Epoch time: 724.0066471999962[s]
+Learning rate updated: 3.125e-06 -> 1.5625e-06
+Epoch 63/100 | Phase: train | Train_loss: 0.0713 | Train_accuracy: 0.9763 | Train_precision: 0.9740 | Train_recall: 0.9677 | Train_f1: 0.9708
+Epoch 63/100 | Phase: valid | Valid_loss: 0.0950 | Valid_accuracy: 0.9793 | Valid_precision: 0.9703 | Valid_recall: 0.9725 | Valid_f1: 0.9714
+Epoch time: 723.549002300002[s]
+Epoch 64/100 | Phase: train | Train_loss: 0.0712 | Train_accuracy: 0.9759 | Train_precision: 0.9729 | Train_recall: 0.9661 | Train_f1: 0.9694
+Epoch 64/100 | Phase: valid | Valid_loss: 0.0934 | Valid_accuracy: 0.9791 | Valid_precision: 0.9704 | Valid_recall: 0.9720 | Valid_f1: 0.9711
+Epoch time: 723.1558905000056[s]
+Epoch 65/100 | Phase: train | Train_loss: 0.0738 | Train_accuracy: 0.9753 | Train_precision: 0.9724 | Train_recall: 0.9669 | Train_f1: 0.9696
+Epoch 65/100 | Phase: valid | Valid_loss: 0.0944 | Valid_accuracy: 0.9794 | Valid_precision: 0.9712 | Valid_recall: 0.9724 | Valid_f1: 0.9718
+Epoch time: 725.3198131000026[s]
+Epoch 66/100 | Phase: train | Train_loss: 0.0739 | Train_accuracy: 0.9750 | Train_precision: 0.9721 | Train_recall: 0.9656 | Train_f1: 0.9688
+Epoch 66/100 | Phase: valid | Valid_loss: 0.0934 | Valid_accuracy: 0.9794 | Valid_precision: 0.9712 | Valid_recall: 0.9727 | Valid_f1: 0.9719
+Epoch time: 725.2910303999961[s]
+Epoch 67/100 | Phase: train | Train_loss: 0.0706 | Train_accuracy: 0.9760 | Train_precision: 0.9735 | Train_recall: 0.9669 | Train_f1: 0.9701
+Epoch 67/100 | Phase: valid | Valid_loss: 0.0946 | Valid_accuracy: 0.9790 | Valid_precision: 0.9697 | Valid_recall: 0.9725 | Valid_f1: 0.9711
+Epoch time: 725.0578234999994[s]
+Epoch 68/100 | Phase: train | Train_loss: 0.0725 | Train_accuracy: 0.9760 | Train_precision: 0.9731 | Train_recall: 0.9672 | Train_f1: 0.9701
+Epoch 68/100 | Phase: valid | Valid_loss: 0.0959 | Valid_accuracy: 0.9793 | Valid_precision: 0.9708 | Valid_recall: 0.9722 | Valid_f1: 0.9715
+Epoch time: 724.3629331000047[s]
+Epoch 69/100 | Phase: train | Train_loss: 0.0709 | Train_accuracy: 0.9755 | Train_precision: 0.9727 | Train_recall: 0.9665 | Train_f1: 0.9695
+Epoch 69/100 | Phase: valid | Valid_loss: 0.0966 | Valid_accuracy: 0.9788 | Valid_precision: 0.9699 | Valid_recall: 0.9718 | Valid_f1: 0.9708
+Epoch time: 727.0067838999967[s]
+Learning rate updated: 1.5625e-06 -> 7.8125e-07
+Epoch 70/100 | Phase: train | Train_loss: 0.0721 | Train_accuracy: 0.9755 | Train_precision: 0.9724 | Train_recall: 0.9661 | Train_f1: 0.9692
+Epoch 70/100 | Phase: valid | Valid_loss: 0.0976 | Valid_accuracy: 0.9785 | Valid_precision: 0.9686 | Valid_recall: 0.9716 | Valid_f1: 0.9701
+Epoch time: 725.9676494000014[s]
+Epoch 71/100 | Phase: train | Train_loss: 0.0711 | Train_accuracy: 0.9761 | Train_precision: 0.9736 | Train_recall: 0.9678 | Train_f1: 0.9706
+Epoch 71/100 | Phase: valid | Valid_loss: 0.0962 | Valid_accuracy: 0.9788 | Valid_precision: 0.9696 | Valid_recall: 0.9715 | Valid_f1: 0.9705
+Epoch time: 725.8181416000007[s]
+Epoch 72/100 | Phase: train | Train_loss: 0.0706 | Train_accuracy: 0.9759 | Train_precision: 0.9728 | Train_recall: 0.9671 | Train_f1: 0.9699
+Epoch 72/100 | Phase: valid | Valid_loss: 0.0968 | Valid_accuracy: 0.9787 | Valid_precision: 0.9692 | Valid_recall: 0.9718 | Valid_f1: 0.9705
+Epoch time: 726.5945696000053[s]
+Epoch 73/100 | Phase: train | Train_loss: 0.0713 | Train_accuracy: 0.9760 | Train_precision: 0.9734 | Train_recall: 0.9668 | Train_f1: 0.9700
+Epoch 73/100 | Phase: valid | Valid_loss: 0.0968 | Valid_accuracy: 0.9789 | Valid_precision: 0.9689 | Valid_recall: 0.9726 | Valid_f1: 0.9707
+Epoch time: 738.5920858000027[s]
+Epoch 74/100 | Phase: train | Train_loss: 0.0711 | Train_accuracy: 0.9757 | Train_precision: 0.9727 | Train_recall: 0.9664 | Train_f1: 0.9695
+Epoch 74/100 | Phase: valid | Valid_loss: 0.0965 | Valid_accuracy: 0.9791 | Valid_precision: 0.9693 | Valid_recall: 0.9728 | Valid_f1: 0.9710
+Epoch time: 729.0436685000022[s]
+Epoch 75/100 | Phase: train | Train_loss: 0.0733 | Train_accuracy: 0.9745 | Train_precision: 0.9709 | Train_recall: 0.9650 | Train_f1: 0.9679
+Epoch 75/100 | Phase: valid | Valid_loss: 0.0956 | Valid_accuracy: 0.9792 | Valid_precision: 0.9708 | Valid_recall: 0.9718 | Valid_f1: 0.9713
+Epoch 75: early stopping due to no improvement for 20 consecutive epochs
+Best validation f1 score: 0.9721481559429292
