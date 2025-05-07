@@ -221,9 +221,9 @@ Describe your project here
 
 ## Files Description
 📁 Data:
-    📁 Location:
-        📊 bus_stops.csv:
-        📊 crimes.csv:
+    - 📁 Location:
+        - 📊 bus_stops.csv:
+        - 📊 crimes.csv:
         📊 cultural.csv:
         📊 education.csv:
         📊 health.csv:
