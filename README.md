@@ -220,14 +220,10 @@ Describe your project here
 ```
 
 ## Files Description
-📁 Data:
-
-    - 📁 Location:
-
-        - 📊 bus_stops.csv:
-
-        - 📊 crimes.csv:
-
+📁 Data: <br>
+    - 📁 Location: <br>
+        - 📊 bus_stops.csv: <br>
+        - 📊 crimes.csv: <br>
         📊 cultural.csv:
         📊 education.csv:
         📊 health.csv:
