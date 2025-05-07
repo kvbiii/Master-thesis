@@ -4,6 +4,7 @@
 Describe your project here
 
 ## Folder Structure
+```
 ┣━ 📁 Data
 ┃  ┣━ 📁 Location
 ┃  ┃  ┣━ 📊 bus_stops.csv
@@ -216,6 +217,7 @@ Describe your project here
 ┣━ 📓 2. EDA.ipynb
 ┣━ 📓 3. Modeling.ipynb
 ┗━ 📝 README.md
+```
 
 ## Files Description
 📁 Data:
@@ -435,4 +437,4 @@ Describe your project here
 
 ## Usage
 
-**Last updated on 2025-05-07 19:40**
+**Last updated on 2025-05-07 19:43**
