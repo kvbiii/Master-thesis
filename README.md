@@ -219,9 +219,9 @@ Describe your project here
 ┗━ 📝 README.md
 ```
 
-## Files Description
-📁 Data:
-&nbsp;&nbsp;&nbsp;&nbsp;📁 Location:
+## Files Description  
+📁 Data:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;📁 Location:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 bus_stops.csv:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 crimes.csv:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📊 cultural.csv:
